@@ -4,8 +4,6 @@
 
 A Python-based plagiarism detection tool that compares two essays using **Jaccard Similarity**, filters stop words, performs word verification, and generates a timestamped similarity report.
 
----
-
 ## Features
 
 ### Text Preprocessing
