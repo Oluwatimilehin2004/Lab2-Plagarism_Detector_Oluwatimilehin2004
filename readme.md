@@ -1,5 +1,3 @@
-
-
 # Plagiarism Detector (Python CLI Application)
 
 A Python-based plagiarism detection tool that compares two essays using **Jaccard Similarity**, filters stop words, performs word verification, and generates a timestamped similarity report.
@@ -72,14 +70,13 @@ No extra installation required.
 
 ## ▶️ How to Use
 
+```bash
 ### 1. Add Essays
 Place two files inside the `essays/` folder:
 essay1.txt
 essay2.txt
 
 ### 2. Run Program
-
-```bash
 python plagiarism-detector.py
 
 3. Word Verification
