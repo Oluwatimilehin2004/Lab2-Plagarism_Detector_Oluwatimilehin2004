@@ -30,7 +30,7 @@ A Python-based plagiarism detection tool that compares two essays using **Jaccar
 - verified word + count  
 - list of common words  
 
-### 📁 Directory Structure
+### Directory Structure
 project/
 │── essays/
 │ ├── essay1.txt
@@ -49,7 +49,7 @@ project/
 git clone https://github.com/Oluwatimilehin2004/plagiarism-detector.git
 cd plagiarism-detector
 
-# 📘 Plagiarism Detector (Python CLI Application)
+# Plagiarism Detector (Python CLI Application)
 
 A Python-based plagiarism detection tool that compares two essays using **Jaccard Similarity**, filters stop words, performs word verification, and generates a timestamped similarity report.
 
@@ -68,7 +68,7 @@ All modules are built-in:
 
 No extra installation required.
 
-## ▶️ How to Use
+## How to Use
 
 ```bash
 ### 1. Add Essays
